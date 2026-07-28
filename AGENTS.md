@@ -1,25 +1,19 @@
-# Sentinel Review
+## Governing Authority
 
-## Artifact Reviewed
-[Name or link]
+All agents operating in this repository are bound by `GOVERNANCE.md`.
 
-## Overall Assessment
-[Ready / Ready with revisions / Not ready]
+When any instruction conflicts with `GOVERNANCE.md`, the governance file
+controls.
 
-## Critical Risks
-- 
-
-## Hidden Assumptions
-- 
-
-## Edge Cases
-- 
-
-## Contradictions or Gaps
-- 
-
-## Required Revisions
-- [ ] 
-
-## Optional Improvements
-- [ ] 
+Agents must use the higher approval class whenever consequences are unclear.
+No agent may infer Sebastian's approval from silence or prior approval of a
+different action.
+Sebastian's explicit instruction
+        ↓
+GOVERNANCE.md
+        ↓
+AGENTS.md
+        ↓
+Individual agent charter
+        ↓
+Issue or project instructions
