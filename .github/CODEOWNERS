@@ -1,0 +1,25 @@
+# MavericksATeam CODEOWNERS
+#
+# Important:
+# Every owner listed here must be an actual GitHub user or organization team
+# with sufficient repository access.
+
+# Sebastian temporarily owns everything until the agent identities exist.
+* @Gadjetfreek
+
+# Governance and authority files always require Sebastian.
+GOVERNANCE.md @YOUR-GITHUB-USERNAME
+MISSION.md @YOUR-GITHUB-USERNAME
+AGENTS.md @YOUR-GITHUB-USERNAME
+.github/CODEOWNERS @YOUR-GITHUB-USERNAME
+
+# Repository enforcement and automation always require Sebastian.
+.github/workflows/ @YOUR-GITHUB-USERNAME
+.github/rules/ @YOUR-GITHUB-USERNAME
+
+# Agent authority and operating instructions.
+agents/ @YOUR-GITHUB-USERNAME
+
+# Sensitive operational areas.
+infrastructure/ @YOUR-GITHUB-USERNAME
+deploy/ @YOUR-GITHUB-USERNAME
