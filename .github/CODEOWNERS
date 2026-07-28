@@ -8,18 +8,18 @@
 * @Gadjetfreek
 
 # Governance and authority files always require Sebastian.
-GOVERNANCE.md @YOUR-GITHUB-USERNAME
-MISSION.md @YOUR-GITHUB-USERNAME
-AGENTS.md @YOUR-GITHUB-USERNAME
-.github/CODEOWNERS @YOUR-GITHUB-USERNAME
+GOVERNANCE.md @Gadjetfreek
+MISSION.md @Gadjetfreek
+AGENTS.md @Gadjetfreek
+.github/CODEOWNERS @Gadjetfreek
 
 # Repository enforcement and automation always require Sebastian.
-.github/workflows/ @YOUR-GITHUB-USERNAME
-.github/rules/ @YOUR-GITHUB-USERNAME
+.github/workflows/ @Gadjetfreek
+.github/rules/ @Gadjetfreek
 
 # Agent authority and operating instructions.
-agents/ @YOUR-GITHUB-USERNAME
+agents/ @Gadjetfreek
 
 # Sensitive operational areas.
-infrastructure/ @YOUR-GITHUB-USERNAME
-deploy/ @YOUR-GITHUB-USERNAME
+infrastructure/ @Gadjetfreek
+deploy/ @Gadjetfreek
