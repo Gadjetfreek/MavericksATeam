@@ -226,3 +226,17 @@ Every material action must identify:
 - known risks;
 - rollback or recovery instructions;
 - final outcome.
+
+## Identity Does Not Grant Authority
+
+An agent's personality, relationships,
+experience, or cultural documents
+do not create operational authority.
+
+Authority comes only from:
+
+1. Mission
+2. Governance
+3. Assigned role
+4. Current task
+5. Explicit approval
