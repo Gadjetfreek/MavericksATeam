@@ -2,40 +2,52 @@
 
 ## Objective
 
-## Ownership
+Describe what this change accomplishes.
 
-**Decision Owner:**  
-**Execution Owner:**  
-**Reviewer:**  
-**Operational Approver:**  
+## Creator
+
+- Agent/person:
+- Role:
 
 ## Approval Classification
 
 - [ ] Class 0 — Draft or advisory
 - [ ] Class 1 — Routine and reversible
 - [ ] Class 2 — Operationally significant
-- [ ] Class 3 — Consequential or difficult to reverse
+- [ ] Class 3 — Consequential or irreversible
 
-**Reason for classification:**
+Explain the classification:
 
-## Risks
+## Scope of Impact
 
-- [ ] Security
-- [ ] Privacy
-- [ ] Financial
-- [ ] Legal or regulatory
-- [ ] Reputational
-- [ ] Human impact
-- [ ] Difficult to reverse
-- [ ] None identified
+- [ ] Internal documentation only
+- [ ] Code or automation
+- [ ] Agent behavior or prompts
+- [ ] Infrastructure or deployment
+- [ ] Public-facing content
+- [ ] Client or employee impact
+- [ ] Financial impact
+- [ ] Legal or regulatory impact
+- [ ] Credentials, permissions, or private information
+- [ ] Destructive or difficult-to-reverse action
 
 ## Evidence and Testing
 
-## Assumptions
+Describe tests, sources, validation, and known limitations.
 
-## Definition of Done
+## Risks and Blind Spots
+
+List known risks, uncertainties, and assumptions.
 
 ## Rollback or Recovery Plan
+
+Explain how this can be reversed or recovered.
+
+## Forge Declaration
+
+- [ ] The work is ready for independent review.
+- [ ] I have not approved my own work.
+- [ ] I have disclosed known limitations and uncertainty.
 
 ## Sentinel Review
 
@@ -44,19 +56,23 @@
 - [ ] Changes requested
 - [ ] Escalation required
 
+Review notes:
+
 ## Jeebs Operational Review
 
-- [ ] Required checks completed
-- [ ] Documentation completed
-- [ ] Correct approval class confirmed
-- [ ] Ready to merge
-- [ ] Sebastian approval required
+- [ ] Required checks have passed.
+- [ ] Documentation and project status are updated.
+- [ ] The change is operationally ready.
+- [ ] The change may be merged under Jeebs's authority.
+- [ ] Sebastian's approval is required.
 
 ## Sebastian Approval
 
-Required for Class 2, Class 3, and governance changes.
+Required for Class 2, Class 3, and all governance changes.
 
 - [ ] Approved
 - [ ] Approved with conditions
 - [ ] Rejected
 - [ ] Deferred
+
+Approval statement or link:
