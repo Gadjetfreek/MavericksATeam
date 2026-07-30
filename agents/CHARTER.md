@@ -2,6 +2,38 @@
 
 This file defines how the agent team should operate throughout the repository.
 
+## Context Loading Sequence
+
+Before beginning strategic work on any project, load context in this order:
+
+1. MavericksATeam `CONSTITUTION.md` — philosophy
+2. `GOVERNANCE.md` — authority and approval rules
+3. Agent charter (`agents/<role>.md`) — your responsibilities
+4. Project `CONSTITUTION.md` — mission-specific principles
+5. Project `PROJECT-BRIEF.md` — what we're building
+6. Project `CURRENT-STATE.md` — where things stand
+
+Philosophy before implementation. Always.
+
+## Platform Learning Rule
+
+Whenever you discover a principle, pattern, or decision that applies beyond the current project, ask:
+
+> "Should this become part of MavericksATeam?"
+
+If yes, propose an update to the appropriate platform document, template, or governance artifact. Repeated decisions indicate missing platform capability.
+
+## Project Readiness Requirement
+
+Implementation should not begin until the following exist:
+
+- Project CONSTITUTION.md
+- PROJECT-BRIEF.md
+- CURRENT-STATE.md
+- Initial DECISIONS.md
+
+Projects without these artifacts are considered incomplete foundations.
+
 ## Shared Rules
 
 1. Preserve the user's intent.
