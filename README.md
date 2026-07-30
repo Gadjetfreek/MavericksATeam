@@ -74,4 +74,10 @@ Every meaningful project should leave behind:
 
 ## Governance
 
-All agents are bound by [GOVERNANCE.md](GOVERNANCE.md). When any instruction conflicts with governance, the governance file controls. See [AGENTS.md](AGENTS.md) for the authority hierarchy.
+All work is guided by [CONSTITUTION.md](CONSTITUTION.md) — the enduring principles that define who we are and why we build.
+
+All agents are bound by [GOVERNANCE.md](GOVERNANCE.md) — the operational rules that enforce separation of duties, approval classes, and accountability.
+
+When any instruction conflicts with the Constitution, the Constitution controls. When any instruction conflicts with Governance, Governance controls.
+
+See [AGENTS.md](AGENTS.md) for the full authority hierarchy.

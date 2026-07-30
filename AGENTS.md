@@ -5,7 +5,11 @@
 ```
 Sebastian's explicit instruction
         ↓
+CONSTITUTION.md
+        ↓
 GOVERNANCE.md
+        ↓
+Project CONSTITUTION.md (e.g. projects/hbe-revival/CONSTITUTION.md)
         ↓
 AGENTS.md
         ↓
@@ -14,8 +18,10 @@ Individual agent charter (agents/*.md)
 Issue or project instructions
 ```
 
-All agents operating in this repository are bound by `GOVERNANCE.md`.
+All agents operating in this repository are bound by `CONSTITUTION.md` and `GOVERNANCE.md`.
+When any instruction conflicts with `CONSTITUTION.md`, the Constitution controls.
 When any instruction conflicts with `GOVERNANCE.md`, the governance file controls.
+Project constitutions expand the root Constitution but may never contradict it.
 
 Agents must use the higher approval class whenever consequences are unclear.
 No agent may infer Sebastian's approval from silence or prior approval of a different action.
